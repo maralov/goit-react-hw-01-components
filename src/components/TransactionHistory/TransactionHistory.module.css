@@ -1,0 +1,7 @@
+.TransactionHistory {
+  border: 1px solid #000;
+}
+
+.TransactionHistory thead {
+  background-color: rgb(150, 201, 214);
+}
